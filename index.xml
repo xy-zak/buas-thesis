@@ -1,0 +1,16 @@
+<?xml version="1.0" encoding="UTF-8" ?>
+<rss version="2.0">
+    <channel>
+      <title>BUAS Thesis Notes</title>
+      <link>https://xy-zak.github.io/buas-thesis</link>
+      <description>Last 10 notes on BUAS Thesis Notes</description>
+      <generator>Quartz -- quartz.jzhao.xyz</generator>
+      <item>
+    <title>Tag Index</title>
+    <link>https://xy-zak.github.io/buas-thesis/tags/</link>
+    <guid>https://xy-zak.github.io/buas-thesis/tags/</guid>
+    <description><![CDATA[  ]]></description>
+    <pubDate>Thu, 10 Sep 2026 19:41:51 GMT</pubDate>
+  </item>
+    </channel>
+  </rss>
